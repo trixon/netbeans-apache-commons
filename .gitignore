@@ -14,3 +14,13 @@ hs_err_pid*
 /build/
 /Apache-Commons-Codec/build/
 /Apache-Commons-Codec/nbproject/private/
+/Java-Architecture-for-XML-Binding/build/
+/metadata-extractor/build/
+/JavaAPIforKml/build/
+/json-simple/build/
+/cron4j/nbproject/private/
+/JavaAPIforKml/nbproject/private/
+/Java-Architecture-for-XML-Binding/nbproject/private/
+/json-simple/nbproject/private/
+/metadata-extractor/nbproject/private/
+/cron4j/build/

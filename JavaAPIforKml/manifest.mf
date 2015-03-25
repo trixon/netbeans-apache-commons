@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: false
+OpenIDE-Module: de.micromata.opengis.kml.v_2_2_0
+OpenIDE-Module-Localizing-Bundle: de/micromata/opengis/kml/v_2_2_0/Bundle.properties
+OpenIDE-Module-Specification-Version: 2.2.0
+
