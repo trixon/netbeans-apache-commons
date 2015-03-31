@@ -25,3 +25,5 @@ hs_err_pid*
 /metadata-extractor/nbproject/private/
 /cron4j/build/
 /nbproject/private/
+/Apache-Commons-IO/build/
+/Apache-Commons-Lang/build/
