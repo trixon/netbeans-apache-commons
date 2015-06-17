@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: false
 OpenIDE-Module: com.drew.imaging
 OpenIDE-Module-Localizing-Bundle: com/drew/imaging/Bundle.properties
-OpenIDE-Module-Specification-Version: 2.8.0
+OpenIDE-Module-Specification-Version: 2.8.1
 
