@@ -14,16 +14,17 @@
                 <package>com.healthmarketscience.sqlbuilder.custom.mysql</package>
                 <package>com.healthmarketscience.sqlbuilder.custom.oracle</package>
                 <package>com.healthmarketscience.sqlbuilder.custom.postgresql</package>
+                <package>com.healthmarketscience.sqlbuilder.custom.sqlserver</package>
                 <package>com.healthmarketscience.sqlbuilder.dbspec</package>
                 <package>com.healthmarketscience.sqlbuilder.dbspec.basic</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/common-util-1.1.0.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/common-util-1.1.0.jar</binary-origin>
+                <runtime-relative-path>ext/common-util-1.1.1.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/common-util-1.1.1.jar</binary-origin>
             </class-path-extension>
             <class-path-extension>
-                <runtime-relative-path>ext/sqlbuilder-2.1.3.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/sqlbuilder-2.1.3.jar</binary-origin>
+                <runtime-relative-path>ext/sqlbuilder-2.1.7.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/sqlbuilder-2.1.7.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>

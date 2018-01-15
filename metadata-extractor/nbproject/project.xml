@@ -13,21 +13,29 @@
                 <package>com.adobe.xmp.options</package>
                 <package>com.adobe.xmp.properties</package>
                 <package>com.drew.imaging</package>
+                <package>com.drew.imaging.avi</package>
                 <package>com.drew.imaging.bmp</package>
+                <package>com.drew.imaging.eps</package>
                 <package>com.drew.imaging.gif</package>
                 <package>com.drew.imaging.ico</package>
                 <package>com.drew.imaging.jpeg</package>
+                <package>com.drew.imaging.mp4</package>
                 <package>com.drew.imaging.pcx</package>
                 <package>com.drew.imaging.png</package>
                 <package>com.drew.imaging.psd</package>
+                <package>com.drew.imaging.quicktime</package>
+                <package>com.drew.imaging.raf</package>
                 <package>com.drew.imaging.riff</package>
                 <package>com.drew.imaging.tiff</package>
+                <package>com.drew.imaging.wav</package>
                 <package>com.drew.imaging.webp</package>
                 <package>com.drew.lang</package>
                 <package>com.drew.lang.annotations</package>
                 <package>com.drew.metadata</package>
                 <package>com.drew.metadata.adobe</package>
+                <package>com.drew.metadata.avi</package>
                 <package>com.drew.metadata.bmp</package>
+                <package>com.drew.metadata.eps</package>
                 <package>com.drew.metadata.exif</package>
                 <package>com.drew.metadata.exif.makernotes</package>
                 <package>com.drew.metadata.file</package>
@@ -36,22 +44,31 @@
                 <package>com.drew.metadata.ico</package>
                 <package>com.drew.metadata.iptc</package>
                 <package>com.drew.metadata.jfif</package>
+                <package>com.drew.metadata.jfxx</package>
                 <package>com.drew.metadata.jpeg</package>
+                <package>com.drew.metadata.mov</package>
+                <package>com.drew.metadata.mov.atoms</package>
+                <package>com.drew.metadata.mov.media</package>
+                <package>com.drew.metadata.mov.metadata</package>
+                <package>com.drew.metadata.mp4</package>
+                <package>com.drew.metadata.mp4.boxes</package>
+                <package>com.drew.metadata.mp4.media</package>
                 <package>com.drew.metadata.pcx</package>
                 <package>com.drew.metadata.photoshop</package>
                 <package>com.drew.metadata.png</package>
                 <package>com.drew.metadata.tiff</package>
+                <package>com.drew.metadata.wav</package>
                 <package>com.drew.metadata.webp</package>
                 <package>com.drew.metadata.xmp</package>
                 <package>com.drew.tools</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/xmpcore-5.1.2.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/xmpcore-5.1.2.jar</binary-origin>
+                <runtime-relative-path>ext/metadata-extractor-2.11.0.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/metadata-extractor-2.11.0.jar</binary-origin>
             </class-path-extension>
             <class-path-extension>
-                <runtime-relative-path>ext/metadata-extractor-2.8.1.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/metadata-extractor-2.8.1.jar</binary-origin>
+                <runtime-relative-path>ext/xmpcore-5.1.3.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/xmpcore-5.1.3.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>

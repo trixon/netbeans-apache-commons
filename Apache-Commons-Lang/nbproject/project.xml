@@ -8,6 +8,7 @@
             <module-dependencies/>
             <public-packages>
                 <package>org.apache.commons.lang3</package>
+                <package>org.apache.commons.lang3.arch</package>
                 <package>org.apache.commons.lang3.builder</package>
                 <package>org.apache.commons.lang3.concurrent</package>
                 <package>org.apache.commons.lang3.event</package>
@@ -21,8 +22,8 @@
                 <package>org.apache.commons.lang3.tuple</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/commons-lang3-3.3.2.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/commons-lang3-3.3.2.jar</binary-origin>
+                <runtime-relative-path>ext/commons-lang3-3.7.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/commons-lang3-3.7.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>
